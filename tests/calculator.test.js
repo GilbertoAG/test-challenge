@@ -1,6 +1,6 @@
-const { sum, substract, multiply, divide, power } = require('./calculator');
+const { sum, substract, multiply, divide, power } = require('../calculator');
 
-const calculator = require('./calculator');
+const calculator = require('../calculator');
 
 test('adds a + b', () => {
     expect(calculator.sum(7, 7)).toBe(14);
