@@ -204,5 +204,16 @@
     "calculator"
   ],
   "author": "keacluster",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GilbertoAG/test-challenge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GilbertoAG/test-challenge/issues"
+  },
+  "homepage": "https://github.com/GilbertoAG/test-challenge#readme"
 }
